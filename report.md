@@ -170,5 +170,5 @@ ALABAMA, ALASKA, CONNECTICUT, DELAWARE, HAWAII, MASSACHUSETTS, NEW JERSEY, NORTH
 0. Download the CSVs from the Kaggle dataset (linked in README).
 1. Create tables (`sql/00_schema.sql`)
 2. Import CSVs into tables (DBeaver import)
-3. Normalize numeric fields (`sql/02_clean.sql`)
+3. Normalize numeric fields (`sql/01_clean.sql`)
 4. Run the business analysis (`sql/10_analysis.sql`)
